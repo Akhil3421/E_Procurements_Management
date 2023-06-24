@@ -7,5 +7,6 @@ It uses the Xampp server for configuration the data base also provided in sql fi
 User(contractor) can apply for tenders which are active. Tenders are posted by the Organization by the admin login. Admin login contains delete, upload, Add admins, and can see the contractors who have bidded lowest amount ie., L1
 
 ## Requirements
-1.[Xampp server](https://www.apachefriends.org/)
+1.[Xampp Server](https://www.apachefriends.org/)
+
 2.[VS code](https://code.visualstudio.com/download)
